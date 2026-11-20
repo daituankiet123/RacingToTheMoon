@@ -1,0 +1,6 @@
+{
+  "name": "Nitro Drift World",
+  "description": "Trò chơi đua xe 3D phong cách Zing Speed nhiều người chơi qua 10 thành phố nổi tiếng thế giới, hỗ trợ PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
